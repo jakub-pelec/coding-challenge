@@ -20,3 +20,5 @@
 - the task might have been actually finished 100% (few optional functionalities are missing)
 - more unit tests could be added (side note: there is no need to test the react query functionality, we can rely on the package maintenance team to work on that and make sure a bugless version is always deployed)
 
+# Side notes:
+- the `create-react-app` package is no longer maintained and recommended by the react authoring team, so I used vite instead.
