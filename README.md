@@ -12,6 +12,7 @@
 - all components sit inside of `components directory` (it's a small project, so no need to implement more complex structure like atomic design for example)
 - all API calling functions sit inside of `api directory`
 - all custom hooks sit inside of `hooks directory`
+- all custom types that are used project-wide sit in `typings directory` (for example types of responses coming from the API)
 
 # Areas of improvement:
 
